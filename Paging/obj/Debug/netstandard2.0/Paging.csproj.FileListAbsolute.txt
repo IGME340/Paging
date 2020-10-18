@@ -1,0 +1,16 @@
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\bin\Debug\netstandard2.0\Paging.deps.json
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\bin\Debug\netstandard2.0\Paging.dll
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\bin\Debug\netstandard2.0\ref\Paging.dll
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\bin\Debug\netstandard2.0\Paging.pdb
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.csprojAssemblyReference.cache
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.AssemblyInfoInputs.cache
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.AssemblyInfo.cs
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.dll
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\ref\Paging.dll
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\Paging.pdb
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\Micheal\Desktop\Files\Class Files\340\Paging\Paging\obj\Debug\netstandard2.0\AboutPage.xaml.g.cs

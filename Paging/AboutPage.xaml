@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Paging.AboutPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Back" Clicked="Button_Clicked_1"></Button>
+            <Label Text="A Note From Creator, Nyx Daniels" HorizontalOptions="Center" FontAttributes="Bold" TextDecorations="Underline" FontSize="Large"/>
+            <Label Text="The list of games shown here are actually a list of the games that essentially created and strengthened my love for video games in my formative years. Granted, I didn't actually play them in the order 
+they were released in. (as I was born in 2000) But all of these games are actually really important to me, and I hope you enjoy learning about them as much as I enjoyed playing them!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" FontSize="Medium"></Label>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

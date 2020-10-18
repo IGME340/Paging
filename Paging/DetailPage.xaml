@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Paging.DetailPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="{Binding Data.Name}" FontAttributes="Bold" TextDecorations="Underline" FontSize="Large" HorizontalOptions="Center"/>
+            <Label Text="Release Date:" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label Text="{Binding Data.YearOfRelease}"/>
+            <Label Text="Star Rating:" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label Text="{Binding Data.Rating}"/>
+            <Label Text="Platform:" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label Text="{Binding Data.Platform}"/>
+            <Label Text="System:" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label Text="{Binding Data.System}"/>
+            <Label Text="About:" FontAttributes="Bold" TextDecorations="Underline"/>
+            <Label Text="{Binding Data.About}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
